@@ -9,7 +9,7 @@
 
 ## 📊 PROJECT OVERVIEW
 
-**Project Name:** [Akan ditentukan - suggestion: "DonasiKu" / "StreamSupport"]  
+**Project Name:** Meuso  
 **Type:** Donation platform untuk streamer Indonesia (Kompetitor Saweria)  
 **Goal:** Platform donasi dengan fitur LEBIH BAGUS dari Saweria  
 **Target Launch:** [Belum ditentukan - estimasi 2-3 bulan dari start]  
