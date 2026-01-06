@@ -1,0 +1,23 @@
+{
+  "name": "meuso",
+  "version": "1.0.0",
+  "description": "Multi-dimensional social platform for authentic human connections",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
+    "server:dev": "cd backend && npm run dev",
+    "client:dev": "cd frontend && npm run dev",
+    "server": "cd backend && npm start",
+    "client": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "npm run test:server && npm run test:client",
+    "test:server": "cd backend && npm test",
+    "test:client": "cd frontend && npm test"
+  },
+  "keywords": ["social", "platform", "connections", "wellness"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
